@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_DEMOS_CMO_BO_ROOT</CLSNAME>
+    <VERSION>1</VERSION>
+    <LANGU>E</LANGU>
+    <DESCRIPT>CMO: Generic Data Object</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_DEMOS_CMO_BO_ROOT</CLSNAME>
+     <CMPNAME>DBREAD_PREPARE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Prepare Read Access (for caching data)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_DEMOS_CMO_BO_ROOT</CLSNAME>
+     <CMPNAME>DBREAD_QUALITY_ID</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Read and fill in ID Quality</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_DEMOS_CMO_BO_ROOT</CLSNAME>
+     <CMPNAME>INITIALIZE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Initialize Instance data</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_DEMOS_CMO_BO_ROOT</CLSNAME>
+     <CMPNAME>MR_DATA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Reference to object data</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_DEMOS_CMO_BO_ROOT</CLSNAME>
+     <CMPNAME>MS_CONFIG</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>CMO: configuration</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_DEMOS_CMO_BO_ROOT</CLSNAME>
+     <CMPNAME>MV_CURRENT_QUALITY</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Managed Object Data Quality</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_DEMOS_CMO_BO_ROOT</CLSNAME>
+     <CMPNAME>MV_ID</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_DEMOS_CMO_BO_ROOT</CLSNAME>
+     <CMPNAME>MV_TARGET_QUALITY</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Managed Object Data Quality</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

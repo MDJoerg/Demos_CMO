@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DOMA" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD01V>
+    <DOMNAME>ZDEMOS_CMO_DATA_QUALITY</DOMNAME>
+    <DATATYPE>INT4</DATATYPE>
+    <LENG>000010</LENG>
+    <OUTPUTLEN>000011</OUTPUTLEN>
+    <VALEXI>X</VALEXI>
+   </DD01V>
+   <DD07V_TAB>
+    <DD07V>
+     <DOMNAME>ZDEMOS_CMO_DATA_QUALITY</DOMNAME>
+     <VALPOS>0001</VALPOS>
+     <DOMVALUE_L>0</DOMVALUE_L>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>ZDEMOS_CMO_DATA_QUALITY</DOMNAME>
+     <VALPOS>0002</VALPOS>
+     <DOMVALUE_L>1</DOMVALUE_L>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>ZDEMOS_CMO_DATA_QUALITY</DOMNAME>
+     <VALPOS>0003</VALPOS>
+     <DOMVALUE_L>2</DOMVALUE_L>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>ZDEMOS_CMO_DATA_QUALITY</DOMNAME>
+     <VALPOS>0004</VALPOS>
+     <DOMVALUE_L>3</DOMVALUE_L>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>ZDEMOS_CMO_DATA_QUALITY</DOMNAME>
+     <VALPOS>0005</VALPOS>
+     <DOMVALUE_L>4</DOMVALUE_L>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>ZDEMOS_CMO_DATA_QUALITY</DOMNAME>
+     <VALPOS>0006</VALPOS>
+     <DOMVALUE_L>5</DOMVALUE_L>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>ZDEMOS_CMO_DATA_QUALITY</DOMNAME>
+     <VALPOS>0007</VALPOS>
+     <DOMVALUE_L>6</DOMVALUE_L>
+    </DD07V>
+   </DD07V_TAB>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+   </I18N_LANGS>
+   <DD01_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Managed Object Data Quality</DDTEXT>
+    </item>
+   </DD01_TEXTS>
+   <DD07_TEXTS>
+    <item>
+     <VALPOS>0001</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>0</DOMVALUE_L>
+     <DDTEXT>ID Only</DDTEXT>
+    </item>
+    <item>
+     <VALPOS>0002</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>1</DOMVALUE_L>
+     <DDTEXT>ID and Description</DDTEXT>
+    </item>
+    <item>
+     <VALPOS>0003</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>2</DOMVALUE_L>
+     <DDTEXT>Main Header data</DDTEXT>
+    </item>
+    <item>
+     <VALPOS>0004</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>3</DOMVALUE_L>
+     <DDTEXT>Header full</DDTEXT>
+    </item>
+    <item>
+     <VALPOS>0005</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>4</DOMVALUE_L>
+     <DDTEXT>Main Sub data</DDTEXT>
+    </item>
+    <item>
+     <VALPOS>0006</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>5</DOMVALUE_L>
+     <DDTEXT>All data</DDTEXT>
+    </item>
+    <item>
+     <VALPOS>0007</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>6</DOMVALUE_L>
+     <DDTEXT>All data + References</DDTEXT>
+    </item>
+   </DD07_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

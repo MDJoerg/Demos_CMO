@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_INTF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOINTERF>
+    <CLSNAME>ZIF_DEMOS_CMO_DA</CLSNAME>
+    <VERSION>1</VERSION>
+    <LANGU>E</LANGU>
+    <DESCRIPT>CMO: API Data Access</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <UNICODE>X</UNICODE>
+   </VSEOINTERF>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_DEMOS_CMO_DA</CLSNAME>
+     <CMPNAME>C_QUALITY_FULL</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Managed Object Data Quality</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_DEMOS_CMO_DA</CLSNAME>
+     <CMPNAME>GET_DATA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get Data</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_DEMOS_CMO_DA</CLSNAME>
+     <CMPNAME>GET_DESCRIPTION</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>get description of an object</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_DEMOS_CMO_DA</CLSNAME>
+     <CMPNAME>SET_CONFIG</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>set object configuration</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_DEMOS_CMO_DA</CLSNAME>
+     <CMPNAME>SET_ID</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Set Object ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_DEMOS_CMO_DA</CLSNAME>
+     <CMPNAME>SET_QUALITY</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Set Quality</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
